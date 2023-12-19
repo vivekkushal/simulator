@@ -1,9 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=MuseoModerno:wght@900&display=swap');
 
+:root {
+  --navbar-white: #ffffff;
+  --navbar-blue: #1a9dee;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   /* font-family: 'Lato', sans-serif;
   font-family: 'MuseoModerno', sans-serif; */
+}
+
+body {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1079px;
+  background: #eff4f8 0% 0% no-repeat padding-box;
+  opacity: 1;
 }

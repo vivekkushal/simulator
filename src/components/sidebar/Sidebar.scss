@@ -1,0 +1,30 @@
+.sidebar {
+  top: 143px;
+  left: 30px;
+  width: 329px;
+  height: 906px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  position: absolute;
+
+  ul {
+    padding-top: 40px;
+    left: 60px;
+    position: absolute;
+
+    li {
+      color: #85878b;
+      font-size: 18px;
+      top: 183px;
+      width: 329px;
+      height: 50px;
+      opacity: 1;
+      list-style: none;
+
+      img {
+        margin-right: 15px;
+      }
+    }
+  }
+}
